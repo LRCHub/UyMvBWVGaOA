@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Every Summertime",
+  "base_artist": "NIKI",
+  "createdAt": "2026-03-04T08:41:18.684833Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Every Summertime",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/01_Every_Summertime_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Every Summertime (Live at The Wiltern)",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/02_Every_Summertime_(Live_at_The_Wiltern)_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Every Summertime",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/03_Every_Summertime_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Every Summertime",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/04_Every_Summertime_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Every Summertime (Live at The Wiltern) (Live at The Wiltern)",
+      "artist": "Niki",
+      "has_synced": true,
+      "path": "select/05_Every_Summertime_(Live_at_The_Wiltern)_(Live_at_The_Wiltern)_Niki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Every Summertime",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/06_Every_Summertime_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Every Summertime",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/07_Every_Summertime_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NIKI - Every Summertime (Visualizer)",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/08_NIKI_-_Every_Summertime_(Visualizer)_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Every Summertime",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/09_Every_Summertime_VA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Every Summertime",
+      "artist": "NIKI, DJ Snake & 88rising",
+      "has_synced": true,
+      "path": "select/10_Every_Summertime_NIKI,_DJ_Snake_&_88rising.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Every Summertime",
+      "artist": "NIKI",
+      "has_synced": false,
+      "path": "select/pl_01_Every_Summertime_NIKI.txt"
+    }
+  ]
+}
