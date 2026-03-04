@@ -1,0 +1,41 @@
+# NIKI – Every Summertime
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:13.30] Eighteen, we were undergrads
+[00:15.86] Stayed out late, never made it to class, uh
+[00:19.28] Outer Richmond in a taxi cab
+[00:21.92] You were sweating bullets on the way to my dad's
+[00:24.63] And oh
+[00:28.93] You said, "baby, think we're moving too fast!"
+[00:37.91] I swear the magnolias flashed a smile (flashed a smile)
+[00:48.60] And that's when I caught me hoping you'd stay a while (stay a while)
+[01:01.60] Baby, I'd give up anything to travel inside your mind
+[01:07.50] Baby, I'll fall in love again come every summertime
+[01:13.44] My daddy taught me to choose 'em wisely but you don't have to try
+[01:19.56] 'Cause baby I fall in love every summertime
+[01:26.17] Twenty-five and we're missing church
+[01:28.56] Laugh 'bout everyone we're hating at work
+[01:31.80] Dinner with your sister and the jokes kinda hurt
+[01:34.87] Cry the way home and you're putting me first, oh
+[01:41.44] Yeah, we just always know what to say
+[01:46.03] Mm
+[01:50.64] We're strolling down the boulevard
+[01:54.40] And dancing under streetlights
+[01:58.51] Oh, yeah
+[02:02.54] Every year we get older and I'm still on your side (oh I)
+[02:12.21] Hey, uh
+[02:14.14] Baby, I'd give up anything to travel inside your mind
+[02:20.12] Baby, I'll fall in love again come every summertime
+[02:26.02] My daddy taught me to choose 'em wisely but you don't have to try
+[02:32.01] 'Cause baby I fall in love every summertime
+[02:38.32] Every day is summertime
+[02:41.42] Every day is summertime
+[02:44.48] Every day is summertime
+[02:47.00] With you
+[02:50.55] Every day is summertime
+[02:53.41] Every day is summertime
+[02:56.52] Every day is summertime
+[02:59.17] With you
+```
